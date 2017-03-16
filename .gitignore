@@ -42,3 +42,5 @@ Thumbs.db
 #angular-src
 /angular-src/node_modules
 /angular-src/dist
+
+/public
